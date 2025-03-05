@@ -66,7 +66,7 @@ View the next phase in [Dashboard Project](https://github.com/tirop/Global_Educa
 ---
 
 ## Contact & Connect
-[LinkedIn](https://www.linkedin.com/in/joshuakendagor/) | [Your Email](jtkendagor@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/joshuakendagor/) 
 
 ---
 
