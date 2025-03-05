@@ -52,7 +52,7 @@ The project consists of two main parts:
 
 ## Contact & Connect
 Interested in this analysis? Feel free to connect!  
-[LinkedIn](https://www.linkedin.com/in/joshuakendagor/) | [Email](jtkendagor@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/joshuakendagor/) | jtkendagor@gmail.com
 
 ---
 
