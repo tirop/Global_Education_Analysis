@@ -19,7 +19,7 @@ The project consists of two main parts:
     Aggregation (calculating schooling averages, GDP trends)  
     Key Insights (countries improving education the fastest, wealth-education correlations)
 
-**Full SQL Queries & Data Processing:** [EDA_Project/](./EDA_Project/)
+**Full SQL Queries & Data Processing:** [EDA_Full Report/](EDA/Full_Report.md)
 
 ---
 
@@ -30,8 +30,9 @@ The project consists of two main parts:
     Bar chart (Top 10 fastest-improving education systems)  
     Correlation metric (Wealth & Education relationship)
 
-**View Interactive Dashboard on Tableau Public:** [Dashboard_Link_Here](#)  
-**Dashboard files & screenshots:** [Dashboard_Project/](./Dashboard_Project/)
+**View Interactive Dashboard on Tableau Public:** [Dashboard](https://public.tableau.com/app/profile/joshua.kendagor/viz/GlobalEducationInsightsDashboard2007-2022/Dashboard1)  
+**Dashboard:** 
+![Screenshot 2025-03-04 135128](https://github.com/user-attachments/assets/ddde9c74-5e2b-428b-958f-b175ecc87ac2)
 
 ---
 
@@ -51,7 +52,7 @@ The project consists of two main parts:
 
 ## Contact & Connect
 Interested in this analysis? Feel free to connect!  
-[LinkedIn](#) | [Your Email](#)
+[LinkedIn](https://www.linkedin.com/in/joshuakendagor/) | [Email](jtkendagor@gmail.com)
 
 ---
 
