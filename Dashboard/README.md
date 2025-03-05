@@ -31,3 +31,6 @@ It highlights **premium EdTech markets, fast-improving education systems, and th
 - **SQL:** Data cleaning, aggregation, analysis
 - **Tableau:** Dashboard design, visualization
 - **GitHub:** Documentation and project management
+
+## Contact & Connect
+[LinkedIn](https://www.linkedin.com/in/joshuakendagor/) | jtkendagor@gmail.com
