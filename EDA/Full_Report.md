@@ -193,3 +193,6 @@ The **correlation** was calculated at **0.41**, indicating a **moderate positive
 
 By addressing these areas, EdTech companies can **increase adoption rates** and drive **long-term impact**.
 
+## Contact & Connect
+[LinkedIn](https://www.linkedin.com/in/joshuakendagor/) | jtkendagor@gmail.com
+
