@@ -61,16 +61,16 @@ Created categories (buckets) for GDP and Schooling levels to segment countries
 ## Next Steps
 Insights from this EDA feed directly into the **Tableau Dashboard**, where the findings are visually presented for business stakeholders.
 
-View the next phase in [Dashboard_Project](../Dashboard_Project/)
+View the next phase in [Dashboard_Project](Dashboard)
 
 ---
 
 ## Contact & Connect
-[LinkedIn](#) | [Your Email](#)
+[LinkedIn](https://www.linkedin.com/in/joshuakendagor/) | [Your Email](jtkendagor@gmail.com)
 
 ---
 
 ## Related Projects
-- [Dashboard Project](../Dashboard_Project/)
+- [Dashboard Project](Dashboard)
 
 
