@@ -5,10 +5,9 @@ This dashboard translates **exploratory data analysis (EDA) insights** into a **
 It highlights **premium EdTech markets, fast-improving education systems, and the wealth-education relationship**, helping stakeholders **prioritize target countries** and shape their **market strategies**.
 
 ---
-
-## Dashboard Link
 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/joshua.kendagor/viz/GlobalEducationInsightsDashboard2007-2022/Dashboard1)  
 
+![Screenshot 2025-03-04 135128](https://github.com/user-attachments/assets/c2343dcc-8728-4f3b-b7d7-2e10d394db1c)
 
 ---
 
