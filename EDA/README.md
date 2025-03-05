@@ -61,7 +61,7 @@ Created categories (buckets) for GDP and Schooling levels to segment countries
 ## Next Steps
 Insights from this EDA feed directly into the **Tableau Dashboard**, where the findings are visually presented for business stakeholders.
 
-View the next phase in [Dashboard_Project](Dashboard)
+View the next phase in [Dashboard Project](https://github.com/tirop/Global_Education_Analysis/blob/main/Dashboard/README.md)
 
 ---
 
@@ -71,6 +71,6 @@ View the next phase in [Dashboard_Project](Dashboard)
 ---
 
 ## Related Projects
-- [Dashboard Project](Dashboard)
+- [Dashboard Project](https://github.com/tirop/Global_Education_Analysis/blob/main/Dashboard/README.md)
 
 
