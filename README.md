@@ -5,8 +5,8 @@
 This project explores global education trends from **2007 to 2022** using **SQL** for exploratory data analysis (EDA) and **Tableau** for data visualization. The goal is to uncover **EdTech market opportunities** by analyzing education levels, GDP, and trends in schooling improvements.
 
 The project consists of two main parts:  
-1️ **Exploratory Data Analysis (EDA) using SQL** – Data cleaning, aggregation, and key insights.  
-2️ **Tableau Dashboard** – Visualizing insights for business decision-making.
+1️ **Exploratory Data Analysis (EDA) using SQL**: Data cleaning, aggregation, and key insights.  
+2️ **Tableau Dashboard**: Visualizing insights for business decision-making.
 
 ---
 
@@ -37,9 +37,9 @@ The project consists of two main parts:
 ---
 
 ## Tools Used
-- SQL – Data exploration & aggregation
-- Tableau – Data visualization & storytelling
-- GitHub – Version control & documentation
+- SQL: Data exploration & aggregation
+- Tableau: Data visualization & storytelling
+- GitHub: Version control & documentation
 
 ---
 
@@ -51,7 +51,6 @@ The project consists of two main parts:
 ---
 
 ## Contact & Connect
-Interested in this analysis? Feel free to connect!  
 [LinkedIn](https://www.linkedin.com/in/joshuakendagor/) | jtkendagor@gmail.com
 
 ---
