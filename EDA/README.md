@@ -48,16 +48,6 @@ Created categories (buckets) for GDP and Schooling levels to segment countries
 
 ---
 
-## Files in this Folder
-| File | Description |
-|---|---|
-| `SQL_Queries.sql` | All queries used for cleaning, aggregation, and analysis |
-| `Original_Dataset.csv` | Raw data file |
-| `Processed_Data.csv` | Cleaned and aggregated data ready for visualization |
-| `README.md` | This file – explaining process & results |
-
----
-
 ## Next Steps
 Insights from this EDA feed directly into the **Tableau Dashboard**, where the findings are visually presented for business stakeholders.
 
