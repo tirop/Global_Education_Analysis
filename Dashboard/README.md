@@ -1,8 +1,8 @@
 # Global Education Insights Dashboard (2007-2022)
 
 ## Project Overview
-This dashboard translates **exploratory data analysis (EDA) insights** into a **business-ready visualization** designed for **EdTech companies** seeking global expansion opportunities.  
-It highlights **premium EdTech markets, fast-improving education systems, and the wealth-education relationship**, helping stakeholders **prioritize target countries** and shape their **market strategies**.
+This dashboard translates exploratory data analysis insights into a visualization designed for EdTech companies seeking global expansion opportunities.  
+It highlights premium EdTech markets, fast-improving education systems, and the wealth-education relationship that will help stakeholders prioritize target countries and shape their market strategies.
 
 ---
 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/joshua.kendagor/viz/GlobalEducationInsightsDashboard2007-2022/Dashboard1)  
@@ -21,9 +21,9 @@ It highlights **premium EdTech markets, fast-improving education systems, and th
 ---
 
 ## Key Insights
-- **Premium Markets:** Wealthy countries with **low schooling years** (like Antigua & Barbuda and Equatorial Guinea) represent **premium private EdTech opportunities**.
-- **Reform Hotspots:** Countries rapidly improving education systems (like Montenegro and Timor-Leste) signal **strong government investment** — ideal for possible **EdTech investment** or **EdTech-government partnerships**.
--  **Global Trend:** There is a **moderate positive correlation (0.41)** between GDP and schooling, but **outliers create unique opportunities** for localized solutions.
+- **Premium Markets:** Wealthy countries with low schooling years (like Antigua & Barbuda and Equatorial Guinea) represent premium private EdTech opportunities.
+- **Reform Hotspots:** Countries rapidly improving education systems (like Montenegro and Timor-Leste) signal strong government investment. This is ideal for possible EdTech investment or EdTech-government partnerships.
+-  **Global Trend:** There is a moderate positive correlation (0.41) between GDP and schooling, but outliers create unique opportunities for localized solutions.
 
 ---
 
