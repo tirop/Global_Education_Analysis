@@ -19,16 +19,17 @@ The project consists of two main parts:
     Aggregation (calculating schooling averages, GDP trends)  
     Key Insights (countries improving education the fastest, wealth-education correlations)
 
-**Full SQL Queries & Data Processing:** [EDA_Full Report/](EDA/Full_Report.md)
+
 
 ---
 
 ### 2. Tableau Dashboard – Data Visualization
 - **Objective:** Convert key EDA insights into a business-focused visual dashboard.
 - **Visuals Include:**  
+    Correlation metric (Wealth & Education relationship)
     Scatterplot (Education vs. GDP)  
     Bar chart (Top 10 fastest-improving education systems)  
-    Correlation metric (Wealth & Education relationship)
+   
 
 **View Interactive Dashboard on Tableau Public:** [Dashboard](https://public.tableau.com/app/profile/joshua.kendagor/viz/GlobalEducationInsightsDashboard2007-2022/Dashboard1)  
 **Dashboard:** 
@@ -44,9 +45,10 @@ The project consists of two main parts:
 ---
 
 ## Key Takeaways & Business Insights
-- **Premium EdTech Market Targets:** Wealthy countries with **low schooling years** (e.g., Antigua & Barbuda, Equatorial Guinea) offer premium EdTech opportunities.
-- **Government Partnership Potential:** Countries with **fast education growth** (e.g., Montenegro, Timor-Leste) are prime candidates for public-private EdTech collaborations.
 - **Wealth-Education Correlation:** A **moderate positive correlation (0.41)** exists between GDP & education, but **exceptions create niche opportunities** for both high-end and budget-friendly EdTech solutions.
+- **Premium EdTech Market Targets:** **High GDP** countries with **low schooling years** (e.g., Antigua & Barbuda, Equatorial Guinea) offer premium EdTech opportunities.
+- **Government Partnership Potential:** Countries with **fast education growth** (e.g., Montenegro, Antigua & Barbuda, Bosnia & Herzigovina, Timor-Leste) are prime candidates for public-private EdTech collaborations.
+
 
 ---
 
