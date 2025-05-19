@@ -22,7 +22,7 @@ It highlights premium EdTech markets, fast-improving education systems, and the 
 
 ## Key Insights
 - **Premium Markets:** Wealthy countries with low schooling years (like Antigua & Barbuda and Equatorial Guinea) represent premium private EdTech opportunities.
-- **Reform Hotspots:** Countries rapidly improving education systems (like Montenegro and Timor-Leste) signal strong government investment. This is ideal for possible EdTech investment or EdTech-government partnerships.
+- **Reform Hotspots:** Countries rapidly improving education systems (like Montenegro, Bosnia & Herzigovina, Antigua & Barbudam, and Timor-Leste) signal strong government investment. This is ideal for possible EdTech investment or EdTech-government partnerships.
 -  **Global Trend:** There is a moderate positive correlation (0.41) between GDP and schooling, but outliers create unique opportunities for localized solutions.
 
 ---
