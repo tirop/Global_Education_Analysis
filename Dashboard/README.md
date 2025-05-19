@@ -7,7 +7,7 @@ It highlights premium EdTech markets, fast-improving education systems, and the 
 ---
 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/joshua.kendagor/viz/GlobalEducationInsightsDashboard2007-2022/Dashboard1)  
 
-![Screenshot 2025-03-04 135128](https://github.com/user-attachments/assets/c2343dcc-8728-4f3b-b7d7-2e10d394db1c)
+![Screenshot 2025-03-04 135128](https://github.com/tirop/Global_Education_Analysis/blob/main/Dashboard/Dashboard%202.png)
 
 ---
 
