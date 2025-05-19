@@ -42,8 +42,8 @@ Created categories (buckets) for GDP and Schooling levels to segment countries
 ## Key Findings
 | Insight | Key Result |
 |---|---|
-| **Premium Market Targets** | Wealthy countries with low schooling include **Antigua & Barbuda**, **Equatorial Guinea**, and **Montenegro**. |
-| **Fastest Improvers** | **Montenegro**, **Bosnia & Herzegovina**, and **Timor-Leste** showed the fastest education improvement. |
+| **Premium Market Targets** | Wealthy countries with low schooling include **Antigua & Barbuda** and **Equatorial Guinea**. |
+| **Fastest Improvers** | **Montenegro**, **Antigua & Barbuda**, **Bosnia & Herzegovina**, and **Timor-Leste** showed the fastest education improvement. |
 | **Wealth-Education Correlation** | Correlation of **0.41** – moderate positive correlation (wealthier countries tend to have better education). |
 
 ---
