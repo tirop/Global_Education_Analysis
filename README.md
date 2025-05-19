@@ -33,7 +33,7 @@ The project consists of two main parts:
 
 **View Interactive Dashboard on Tableau Public:** [Dashboard](https://public.tableau.com/app/profile/joshua.kendagor/viz/GlobalEducationInsightsDashboard2007-2022/Dashboard1)  
 **Dashboard:** 
-![Screenshot 2025-03-04 135128](https://github.com/user-attachments/assets/ddde9c74-5e2b-428b-958f-b175ecc87ac2)
+![Screenshot 2025-03-04 135128](https://github.com/tirop/Global_Education_Analysis/blob/main/Dashboard/Dashboard%202.png)
 
 ---
 
